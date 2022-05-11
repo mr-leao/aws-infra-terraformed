@@ -1,0 +1,3 @@
+[profile MyDeploymentService]
+role_arn=arn:aws:iam::accountId:role/MyDeploymentService
+source_profile=terraform-service-user

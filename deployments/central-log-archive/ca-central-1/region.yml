@@ -1,0 +1,3 @@
+region: "ca-central-1" 
+vpc_cidr_1st_octet: 10
+vpc_cidr_2nd_octet: 0

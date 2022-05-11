@@ -1,0 +1,3 @@
+account_id: 'nnnnnnnnnnnn'
+environment: "staging"
+deployment_prefix: "stg"
